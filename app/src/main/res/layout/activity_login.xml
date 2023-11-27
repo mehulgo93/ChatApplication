@@ -19,8 +19,6 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_below="@id/app_logo"
-        android:layout_alignLeft="20dp"
-        android:layout_alignParentRight="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="37dp"
         android:layout_marginRight="20dp"
@@ -37,8 +35,6 @@
         android:hint="Password"
         android:paddingLeft="10dp"
         android:background="@drawable/edt_background"
-        android:layout_alignLeft="20dp"
-        android:layout_alignParentRight="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"/>
 
